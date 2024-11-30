@@ -6,7 +6,7 @@ gem 'aws-sdk-s3'
 gem "bootstrap-table-rails"
 gem "paperclip", "~> 6.0.0"
 gem 'active_designer'
-gem 'active_model_serializers', '~> 0.10.0'
+gem 'active_model_serializers', '~> 0.10.12'
 gem 'bootstrap-sass'
 gem 'cancancan'
 gem 'coffee-rails', '~> 4.2'
