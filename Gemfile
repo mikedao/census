@@ -4,7 +4,7 @@ ruby '2.6.6'
 
 gem 'aws-sdk-s3'
 gem "bootstrap-table-rails"
-gem "paperclip", "~> 6.0.0"
+gem "paperclip", "~> 6.1.0"
 gem 'active_designer'
 gem 'active_model_serializers', '~> 0.10.0'
 gem 'bootstrap-sass'
